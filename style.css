@@ -1,0 +1,18 @@
+.first-background{
+    background-color: #fceae8;
+}
+.action-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border-radius: 8px;
+    padding: 9px 25px;
+    color: #fff;
+    border: none;
+}
+.text-color{
+    color: #FF136F;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
